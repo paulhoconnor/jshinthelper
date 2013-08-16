@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": {
+    "jshint": "bin/jshint.js"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/gyllstromk/jshinthelper.git"
