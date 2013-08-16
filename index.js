@@ -7,6 +7,4 @@ if (process.argv.indexOf('.') === -1) {
     process.argv.push(path.resolve(__dirname, '..', '..'));
 }
 
-console.log(process.argv);
-
 require('jshint/bin/jshint');
