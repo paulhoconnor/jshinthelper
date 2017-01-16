@@ -1,6 +1,6 @@
 {
   "name": "jshinthelper",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "description": "Use jshint config as module.",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/SkynetUSP/jshinthelper.git"
+    "url": "git://github.com/paulhoconnor/jshinthelper.git"
   },
   "keywords": [
     "jshint",
@@ -20,9 +20,9 @@
   "author": "Karl Gyllstrom",
   "license": "BSD",
   "bugs": {
-    "url": "https://github.com/SkynetUSP/jshinthelper/issues"
+    "url": "https://github.com/paulhoconnor/jshinthelper/issues"
   },
   "dependencies": {
-    "jshint": "~2.7.0"
+    "jshint": "~2.9.4"
   }
 }
