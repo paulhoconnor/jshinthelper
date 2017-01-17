@@ -13,6 +13,7 @@
     "nonew"         : true,
 
     // The Good Parts.
+    "esversion"     : 6,
     "asi"           : false,  // Tolerate Automatic Semicolon Insertion (no semicolons).
     "laxbreak"      : false,  // Tolerate unsafe line breaks e.g. `return [\n]
                               // x` without semicolons.
